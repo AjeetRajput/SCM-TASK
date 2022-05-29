@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
-
+//adding some changes 
 int main(){
+    cout<<"swap number code"<<endl;
     int a,b,temp;
     cout<<"Enter the value of number 1: "<<endl;
     cin>>a;
