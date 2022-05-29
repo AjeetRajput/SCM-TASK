@@ -2,6 +2,10 @@
 using namespace std;
 
 int main(){
+<<<<<<< HEAD
+    cout<<"Hello Good Night";
+=======
     cout<<"Hello Good Afternoon";
+>>>>>>> cool
     return 0;
 }
